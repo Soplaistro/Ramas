@@ -1,4 +1,29 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-top: 100px;
+}
+
+h1{
+    color: #333;
+}
+
+p{
+    color: #666;
+    font-size: 18px;
+}
+
+button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: #0056b3;
 }
